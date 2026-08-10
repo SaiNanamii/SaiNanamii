@@ -127,22 +127,6 @@
 
 <div align="center">
 
-## ✦ 貢献그래프蛇 ✦
-
-<img src="https://raw.githubusercontent.com/SaiNanamii/SaiNanamii/output/github-contribution-grid-snake-dark.svg" width="100%" />
-
-<sub><code>.github/workflows/snake.yml</code> 워크플로우가 매일 자동으로 실행되어 애니메이션을 갱신합니다. (처음엔 Actions 탭에서 한 번 수동 실행 필요)</sub>
-
-</div>
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,50:302b63,100:24243e&height=4" width="100%" />
-
-<br>
-
-<div align="center">
-
 ## ✦ 連絡처へようこそ ✦
 
 <img src="https://komarev.com/ghpvc/?username=SaiNanamii&style=for-the-badge&color=8b5cf6&labelColor=1a1a2e" />
