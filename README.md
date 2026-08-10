@@ -18,19 +18,54 @@
 役割역할角色 : "後端백엔드エンジニア"
 場所장소位置 : "Indonesia 🇮🇩"
 
-作業中작업중 : "分散시스템とAPI设计"
-勉強中공부중 : ["Rust의非同期", "Kafka streams", "eBPF观测"]
+作業中작업중 : "分散시스템とAPI设计・決済시스템"
+勉強中공부중 : ["Temporal / Workflow Orchestration", "Microservice Patterns", "Rust의非同期", "eBPF观测"]
 哲学철학哲学 : "継続은力なり — 坚持就是힘"
 ```
 
 ### ✦ 技術스택の一覧 ✦
 
-<img src="https://skillicons.dev/icons?i=go,rust,ts,java,bun,spring,postgres,redis,docker,kubernetes,nginx,linux,githubactions,kafka,prometheus,grafana&theme=dark" />
+**言語＆프레임워크**
+<p>
+<img src="https://img.shields.io/badge/-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+<img src="https://img.shields.io/badge/-CE422B?style=for-the-badge&logo=rust&logoColor=white" />
+<img src="https://img.shields.io/badge/-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/-FBF0DF?style=for-the-badge&logo=bun&logoColor=black" />
+<img src="https://img.shields.io/badge/-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+</p>
+
+**外部툴＆データベース**
+<p>
+<img src="https://img.shields.io/badge/-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/-FFCC01?style=for-the-badge&logo=clickhouse&logoColor=black" />
+<img src="https://img.shields.io/badge/-FF4438?style=for-the-badge&logo=redis&logoColor=white" />
+<img src="https://img.shields.io/badge/-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" />
+<img src="https://img.shields.io/badge/-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
+</p>
+
+**基盤＆모니터링**
+<p>
+<img src="https://img.shields.io/badge/-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+<img src="https://img.shields.io/badge/-009639?style=for-the-badge&logo=nginx&logoColor=white" />
+<img src="https://img.shields.io/badge/-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+<img src="https://img.shields.io/badge/-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
+<img src="https://img.shields.io/badge/-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
+</p>
+
+**決済＆금융**
+<p>
+<img src="https://img.shields.io/badge/-635BFF?style=for-the-badge&logo=stripe&logoColor=white" />
+<img src="https://img.shields.io/badge/-0F172A?style=for-the-badge&logo=xendit&logoColor=white" />
+<img src="https://img.shields.io/badge/-003087?style=for-the-badge&logo=paypal&logoColor=white" />
+</p>
 
 ### ✦ 統計데이터を見る ✦
 
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=SaiNanamii&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=60a5fa&icon_color=60a5fa&text_color=e2e8f0&count_private=true" />
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaiNanamii&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=60a5fa&text_color=e2e8f0&langs_count=8" />
+<img height="150" src="https://gh-readme-stats.vercel.app/api?username=SaiNanamii&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=60a5fa&icon_color=60a5fa&text_color=e2e8f0&count_private=true" />
+<img height="150" src="https://gh-readme-stats.vercel.app/api/top-langs/?username=SaiNanamii&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=60a5fa&text_color=e2e8f0&langs_count=8" />
 
 <br>
 
