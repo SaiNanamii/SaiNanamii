@@ -6,16 +6,21 @@
 
 「 後端백엔드バックエンド 」
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=900&color=8B5CF6&center=true&vCenter=true&width=540&lines=%E7%A7%81%E3%81%AF%EB%B0%B1%EC%97%94%EB%93%9C%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%81%A7%E3%81%99;%E6%88%91%E7%94%A8Go%EC%99%80Rust%EB%A1%9C%E9%96%8B%E7%99%BA%E3%81%99%E3%82%8B;%E5%88%86%E6%95%A3%EC%8B%9C%EC%8A%A4%ED%85%9C%E3%82%92%E3%81%A4%E3%81%8F%E3%82%8B" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=900&color=8B5CF6&center=true&vCenter=true&width=540&lines=%E7%A7%81%E3%81%AF%EB%B0%B1%EC%97%94%EB%93%9C%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%81%A7%E3%81%99;%E6%88%91%E7%94%A8Go%EC%99%80Rust%EB%A1%9C%E9%96%8B%E7%99%BA%E3%81%99%E3%82%8B;%E5%88%86%E6%95%A3%EC%8B%9C%EC%8A%A4%ED%86%9C%E3%82%92%E3%81%A4%E3%81%8F%E3%82%8B" />
 
-<br><br>
+<br>
 
 <img src="https://img.shields.io/badge/%E5%88%86%E9%87%8E%EB%B6%84%EC%95%BC-Backend%20%C2%B7%20Infra-8b5cf6?style=for-the-badge&labelColor=1a1a2e" />
-<img src="https://img.shields.io/badge/%E7%8F%BE%E5%9C%A8%EC%A7%80%EA%B8%88-Open%20to%20work-6DB33F?style=for-the-badge&labelColor=1a1a2e" />
 
 </div>
 
 <br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,50:302b63,100:24243e&height=4" width="100%" />
+
+<br>
+
+<div align="center">
 
 ## ✦ 自己소개について ✦
 
@@ -29,7 +34,15 @@
 哲学철학哲学 : "継続은力なり — 坚持就是힘"
 ```
 
+</div>
+
 <br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,50:302b63,100:24243e&height=4" width="100%" />
+
+<br>
+
+<div align="center">
 
 ## ✦ 技術스택の一覧 ✦
 
@@ -42,6 +55,8 @@
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=1a1a2e" />
 </p>
 
+<br>
+
 **框架프레임워크フレームワーク**
 
 <p>
@@ -50,6 +65,8 @@
 <img src="https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=1a1a2e" />
 </p>
 
+<br>
+
 **保存소データベース数据库**
 
 <p>
@@ -57,6 +74,8 @@
 <img src="https://img.shields.io/badge/ClickHouse-FFCC01?style=for-the-badge&logo=clickhouse&logoColor=black&labelColor=1a1a2e" />
 <img src="https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=redis&logoColor=white&labelColor=1a1a2e" />
 </p>
+
+<br>
 
 **基盤인프라インフラ**
 
@@ -69,6 +88,8 @@
 <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white&labelColor=1a1a2e" />
 </p>
 
+<br>
+
 **観測모니터링监控**
 
 <p>
@@ -77,28 +98,54 @@
 <img src="https://img.shields.io/badge/OpenTelemetry-425CC7?style=for-the-badge&logo=opentelemetry&logoColor=white&labelColor=1a1a2e" />
 </p>
 
+</div>
+
 <br>
 
-## ✦ 統計데이터を見る ✦
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,50:302b63,100:24243e&height=4" width="100%" />
+
+<br>
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8b5cf6&icon_color=8b5cf6&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8b5cf6&langs_count=8" />
+## ✦ 統計데이터を見る ✦
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=8b5cf6&line=8b5cf6&point=ffffff" width="95%" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=SaiNanamii&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8b5cf6&icon_color=8b5cf6&count_private=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaiNanamii&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8b5cf6&langs_count=8" />
+
+<br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SaiNanamii&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=8b5cf6&line=8b5cf6&point=ffffff" width="95%" />
 
 </div>
 
 <br>
 
-## ✦ 連絡처へようこそ ✦
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,50:302b63,100:24243e&height=4" width="100%" />
+
+<br>
 
 <div align="center">
 
-<a href="https://linkedin.com/in/USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e" /></a>
-<a href="https://t.me/USERNAME"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=1a1a2e" /></a>
-<a href="https://github.com/USERNAME"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e" /></a>
+## ✦ 貢献그래프蛇 ✦
+
+<img src="https://raw.githubusercontent.com/SaiNanamii/SaiNanamii/output/github-contribution-grid-snake-dark.svg" width="100%" />
+
+<sub><code>.github/workflows/snake.yml</code> 워크플로우가 매일 자동으로 실행되어 애니메이션을 갱신합니다. (처음엔 Actions 탭에서 한 번 수동 실행 필요)</sub>
+
+</div>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,50:302b63,100:24243e&height=4" width="100%" />
+
+<br>
+
+<div align="center">
+
+## ✦ 連絡처へようこそ ✦
+
+<img src="https://komarev.com/ghpvc/?username=SaiNanamii&style=for-the-badge&color=8b5cf6&labelColor=1a1a2e" />
 
 <br><br>
 
