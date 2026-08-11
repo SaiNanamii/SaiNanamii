@@ -11,18 +11,6 @@
 
 <br>
 
-### ✦ 自己소개について ✦
-
-```yaml
-名前이름名字 : "Sai Nanami"
-役割역할角色 : "後端백엔드エンジニア"
-場所장소位置 : "Indonesia 🇮🇩"
-
-作業中작업중 : "分散시스템とAPI设计・決済시스템"
-勉強中공부중 : ["Temporal / Workflow Orchestration", "Microservice Patterns", "Rust의非同期", "eBPF观测"]
-哲学철학哲学 : "継続은力なり — 坚持就是힘"
-```
-
 ### ✦ 技術스택の一覧 ✦
 
 **言語＆프레임워크**
@@ -61,11 +49,6 @@
 <img src="https://img.shields.io/badge/-0F172A?style=for-the-badge&logo=xendit&logoColor=white" />
 <img src="https://img.shields.io/badge/-003087?style=for-the-badge&logo=paypal&logoColor=white" />
 </p>
-
-### ✦ 統計데이터を見る ✦
-
-<img height="150" src="https://gh-readme-stats.vercel.app/api?username=SaiNanamii&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=60a5fa&icon_color=60a5fa&text_color=e2e8f0&count_private=true" />
-<img height="150" src="https://gh-readme-stats.vercel.app/api/top-langs/?username=SaiNanamii&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=60a5fa&text_color=e2e8f0&langs_count=8" />
 
 <br>
 
